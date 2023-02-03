@@ -1,2 +1,1 @@
-echo whats inside the file" > file name" > up_to_date
-echo "echo {"whats inside the file} > {file name}
+echo {} > {}
